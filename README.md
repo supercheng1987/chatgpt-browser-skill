@@ -1,5 +1,7 @@
 # ChatGPT Browser Bridge Skill
 
+[English version](README_EN.md)
+
 一个让 AI 助手直接向 ChatGPT 提问的 skill：通过常驻浏览器会话驱动 chatgpt.com，发问、等回复、把 GPT 的原话全文带回来。用户不再需要当传话筒。
 
 ## 为什么是浏览器，而不是 API？
