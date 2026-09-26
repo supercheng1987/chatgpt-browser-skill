@@ -2,13 +2,13 @@
 
 [English version](README_EN.md)
 
-**解决一个具体麻烦：** 你在 ChatGPT 里做项目（写代码、聊方案），同时用 Muse 当 AI 助手。以前两边传话全靠你复制粘贴——这个 skill 让 Muse 直接登录你的 ChatGPT 账号去提问，把 GPT 的原话全文带回来。你不再当传话筒。
+**解决一个具体麻烦：** 你在 ChatGPT 里做项目（写代码、聊方案），同时用 **Muse**（Meta AI）当助手。以前两边传话全靠你复制粘贴——这个 skill 让 **Muse 直接登录你的 ChatGPT 账号**去提问，把 GPT 的原话全文带回来。你不再当传话筒。
 
 ## 这是谁用的？
 
 - 你在 ChatGPT 里有正在进行的项目（比如和 GPT 一起写的代码、方案），想转到 Muse 这边或让 Muse 参与进去
-- 你同时用 Muse（Meta AI）当助手，希望它能直接跟 GPT 对话
-- 说实话：两边都得有。只用 ChatGPT、没有 AI 助手的人用不上这个 skill
+- 你用 Muse 当助手，希望它能直接跟 GPT 对话
+- 注意：这是 **Muse ↔ ChatGPT** 的直连方案，不是给所有 AI 助手用的通用方案——两边都得有才行
 
 ## 它是怎么工作的？
 
@@ -17,12 +17,12 @@ Muse 通过一个常驻浏览器任务登录你的 ChatGPT 账号（你亲手登
 ## 需要什么
 
 - 一个 ChatGPT 账号（免费版可用，Plus 更稳）
-- 能跑浏览器任务的 AI 助手，比如 Muse
+- Muse（Meta AI）——这个 skill 就是为 Muse 写的
 - 你亲手在浏览器里登录一次 ChatGPT
 
 ## 安装
 
-把 `SKILL.md` 放到你的 skills 目录，例如 Muse 的 `~/workspace/skills/chatgpt-browser/SKILL.md`。
+把 `SKILL.md` 放到 Muse 的 skills 目录：`~/workspace/skills/chatgpt-browser/SKILL.md`。
 
 ## 用法
 

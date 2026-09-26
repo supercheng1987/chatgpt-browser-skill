@@ -2,13 +2,13 @@
 
 [中文版](README.md)
 
-**The problem it solves:** You build projects with ChatGPT (code, plans, brainstorming) and you also use Muse as your AI assistant. Before, every message between the two went through you via copy-paste — this skill lets Muse log into your ChatGPT account directly, ask questions, and bring back GPT's answers verbatim. You stop being the relay.
+**The problem it solves:** You build projects with ChatGPT (code, plans, brainstorming) and you use **Muse** (Meta AI) as your assistant. Before, every message between the two went through you via copy-paste — this skill lets **Muse log into your ChatGPT account directly**, ask questions, and bring back GPT's answers verbatim. You stop being the relay.
 
 ## Who is this for?
 
 - You have ongoing projects in ChatGPT (code or plans you built together with GPT) that you want to move over to Muse or have Muse join in on
-- You use Muse (Meta AI) as your assistant and want it to talk to GPT directly
-- Honestly: you need both sides. If you only use ChatGPT and don't have an AI assistant, this skill isn't for you.
+- You use Muse as your assistant and want it to talk to GPT directly
+- Note: this is a **Muse ↔ ChatGPT** bridge, not a generic solution for every AI assistant — you need both sides.
 
 ## How it works
 
@@ -17,12 +17,12 @@ Muse drives chatgpt.com through a persistent browser task logged into your ChatG
 ## Requirements
 
 - A ChatGPT account (free tier works; Plus is steadier)
-- An AI assistant with browser-task support, e.g. Muse
+- Muse (Meta AI) — this skill is written for Muse
 - One manual login to ChatGPT in the browser, done by you
 
 ## Install
 
-Drop `SKILL.md` into your skills directory, e.g. `~/workspace/skills/chatgpt-browser/SKILL.md` for Muse.
+Drop `SKILL.md` into Muse's skills directory: `~/workspace/skills/chatgpt-browser/SKILL.md`.
 
 ## Usage
 
